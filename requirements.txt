@@ -1,0 +1,19 @@
+# Gmail API
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# LangChain + LangSmith + LangGraph
+langchain
+langchain-openai
+langchain-community
+langgraph
+langsmith
+
+# OpenAI and related dependencies
+tiktoken
+
+# Support libraries
+pydantic      # Used by LangChain and LangGraph
+python-dotenv # For .env config if you're using env vars
+httpx       # For making asynchronous HTTP requests
