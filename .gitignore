@@ -1,3 +1,6 @@
 token.pickle
 credentials.json
 .env
+agents/token_gmail.pickle
+agents/token_drive.pickle
+token_gmail.pickle
